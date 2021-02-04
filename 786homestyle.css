@@ -1,0 +1,94 @@
+ 
+/*styling for list items*/
+ div ul li{
+    display: inline;
+    padding: 2px;
+    text-decoration: none;
+    font-size: 20px;
+    list-style-type:none ;
+    
+    
+}
+
+/*style for body*/
+body{
+    background-color: #d3e0ea;
+    margin: 20px;
+}
+
+/*style for main heading*/
+h1{
+    color: #1687a7;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+/*style for nav bar*/
+.navbar{
+    margin-left: 20%;
+    margin-right: 25%;
+   
+}
+
+/*style for unordered list */
+ul{
+    padding: 0;
+ 
+   
+}
+
+/*style for links*/
+a{
+    text-decoration: none;
+    color:#276678;
+    font-family: 'EB Garamond', serif ;
+}
+
+/*style for heading 4*/
+h4{
+    
+    text-decoration: underline;
+    color: #1687a7;
+}
+
+
+/*style for paragraph*/
+p{
+    color:#276678;
+}
+
+/*style for heading 5*/
+h5{
+    text-align: left;
+    color: #1687a7;
+}
+
+/*style for section of listed items*/
+section{
+    
+    display:block;
+   margin-left: auto;
+   margin-right: auto;
+    
+}
+
+/*style for second set of listed items*/
+section ul li{
+    list-style-type: circle;
+}
+
+.container{
+    border: solid 3px #1687a7; 
+    border-radius: 2px 2px 2px 2px;
+}
+
+
+.slidepic{
+
+    height: 500px;
+    width:550px;
+    float: initial;
+    
+}
+

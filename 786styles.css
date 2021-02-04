@@ -1,0 +1,183 @@
+div ul li{
+    display: inline;
+    padding: 2px;
+    text-decoration: none;
+    font-size: 20px;
+    list-style-type:none ;
+    padding-right: 50px;
+}
+.container{
+    border: solid 3px #438a5e; 
+    border-radius: 2px 2px 2px 2px;
+}
+
+/*styling for body*/
+body{
+    background-color: #f7fbe1;
+    margin: 20px;
+}
+
+h1{
+    color:#bac964 ;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+h4{
+    color:#bac964 ;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Quicksand', sans-serif;
+    text-decoration: underline;
+}
+
+.navbar{
+    margin-left: 25%;
+    margin-right: 25%;
+    
+   
+}
+
+ul{
+    padding: 0;
+  text-align: center;
+  
+   
+}
+
+a{
+    text-decoration: none;
+    color:#438a5e;
+    font-family: 'EB Garamond', serif ;
+}
+
+/*stling for images*/
+#lamb{
+    width: 300px;
+    height: 400px;
+    padding: 20px
+}
+
+#lamb:hover{
+    width: 700px;
+    height: 600px;
+}
+
+#hashLink1{
+    display: none;
+}
+
+#hashLink1:target{
+    display: block;
+
+}
+
+#chicken{
+    width: 300px;
+    height: 400px;
+    padding:20px
+}
+#chicken:hover{
+    width: 700px;
+    height: 600px;
+}
+#hashLink2{
+    display: none;
+}
+
+#hashLink2:target{
+    display: block;
+
+}
+
+#sorgi{
+    width: 300px;
+    height: 400px;
+    padding: 20px
+}
+#sorgi:hover{
+    width: 700px;
+    height: 600px;
+}
+
+
+#hashLink3{
+    display: none;
+}
+
+#hashLink3:target{
+    display: block;
+
+}
+#daysly{
+    width: 300px;
+    height: 400px;
+    padding: 20px
+}
+
+#daysly:hover{
+    width: 700px;
+    height: 600px;
+}
+#hashLink4{
+    display: none;
+}
+
+#hashLink4:target{
+    display: block;
+
+}
+
+#walnut{
+    width: 300px;
+    height: 400px;
+    padding: 20px
+}
+#walnut:hover{
+    width: 700px;
+    height: 600px;
+}
+#hashLink5{
+    display: none;
+}
+
+#hashLink5:target{
+    display: block;
+
+}
+/* styling for more and less buttons*/
+.morebutton{
+    border: #438a5e solid 2px;
+    background-color:#bac964;
+    border-radius: 5px 5px 5px 5px;
+    padding:2px;
+}
+
+
+
+.lessinfo{
+    border: #438a5e solid 2px;
+    background-color:#bac964;
+    border-radius: 5px 5px 5px 5px;
+    padding:2px;
+}
+
+p{
+    color:#438a5e;
+}
+
+/*carousal styling*/
+
+#slidepic0{
+
+    height: 200px;
+    width: 200px;
+}
+
+.slidepic{
+
+    height: 200px;
+    width: 200px;
+}
+
